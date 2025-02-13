@@ -1,0 +1,52 @@
+9
+music
+fly
+matt
+2021-07-09
+3:40
+music
+Whisper
+able
+2021-08-14
+2:45
+music
+Queencard
+gidle
+2023-05-15
+2:41
+music
+Ditto
+newjeans
+2022-12-19
+3:05
+music
+Clear Day
+jaychou
+2003-07-31
+4:29
+audiobook
+1984
+georgeorwell
+2006-12-31
+11:24:00
+Simon Prebble
+Nineteen Eighty-Four is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime.
+audiobook
+Anne of Green Gables
+montgomery
+2020-04-04
+08:24:00
+Karen Savage
+Anne of Green Gables is a 1908 novel by Canadian author Lucy Maud Montgomery. Written for all ages, it has been considered a classic children's novel since the mid-20th century.
+podcast
+Stuff You Should Know
+iheartpodcasts
+2008-04-14
+5:00
+If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.
+podcast
+Teenager Therapy
+flighthouse
+2018-09-23
+40:00
+Five stressed, sleep-deprived, yet energetic teens sit down and talk about the struggles that come with being a teenager. Is high school really as bad as everyone says? A podcast that's a coming-of-age story portrayed in real-time. A culmination of mistakes and growth and a reminder you're not alone.
